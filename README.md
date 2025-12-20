@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0139-word-break) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Sliding Window
 |  |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0139-word-break) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0944-delete-columns-to-make-sorted) |
 ## Dynamic Programming
 |  |
 | ------- |
