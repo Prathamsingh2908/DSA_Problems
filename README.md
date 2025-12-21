@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0139-word-break](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0139-word-break) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0944-delete-columns-to-make-sorted) |
@@ -46,5 +47,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
