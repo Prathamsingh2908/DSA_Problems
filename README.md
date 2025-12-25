@@ -11,6 +11,7 @@
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [2054-two-best-non-overlapping-events](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Sliding Window
 |  |
@@ -48,6 +49,7 @@
 | ------- |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Binary Search
 |  |
 | ------- |
@@ -59,6 +61,7 @@
 | ------- |
 | [2054-two-best-non-overlapping-events](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
