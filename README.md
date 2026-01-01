@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0066-plus-one](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0066-plus-one) |
 | [0139-word-break](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0139-word-break) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0840-magic-squares-in-grid](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0840-magic-squares-in-grid) |
@@ -91,6 +92,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0066-plus-one) |
 | [0840-magic-squares-in-grid](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0840-magic-squares-in-grid) |
 ## Matrix
 |  |
