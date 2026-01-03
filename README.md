@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0139-word-break) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/2054-two-best-non-overlapping-events) |
 ## Trie
 |  |
