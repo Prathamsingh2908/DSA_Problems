@@ -16,6 +16,7 @@
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2054-two-best-non-overlapping-events](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/2402-meeting-rooms-iii) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -102,6 +103,7 @@
 | [0066-plus-one](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0066-plus-one) |
 | [0840-magic-squares-in-grid](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0840-magic-squares-in-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Matrix
 |  |
 | ------- |
@@ -130,4 +132,5 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 <!---LeetCode Topics End-->
