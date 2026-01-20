@@ -20,6 +20,7 @@
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Sliding Window
 |  |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0756-pyramid-transition-matrix](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0756-pyramid-transition-matrix) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Math
 |  |
 | ------- |
