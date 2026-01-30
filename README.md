@@ -19,6 +19,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/2402-meeting-rooms-iii) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -54,6 +55,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,10 +63,12 @@
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2054-two-best-non-overlapping-events](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/2054-two-best-non-overlapping-events) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Trie
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0139-word-break) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -165,4 +169,12 @@
 |  |
 | ------- |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+## Graph Theory
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 <!---LeetCode Topics End-->
