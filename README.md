@@ -133,11 +133,13 @@
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
@@ -148,6 +150,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Geometry
