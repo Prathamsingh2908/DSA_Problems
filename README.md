@@ -8,6 +8,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0066-plus-one) |
 | [0139-word-break](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0139-word-break) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0840-magic-squares-in-grid](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0840-magic-squares-in-grid) |
@@ -94,6 +95,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/2054-two-best-non-overlapping-events) |
@@ -103,6 +105,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/2402-meeting-rooms-iii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -188,4 +191,9 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
