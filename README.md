@@ -202,9 +202,18 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0295-find-median-from-data-stream) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
