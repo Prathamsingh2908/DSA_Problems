@@ -9,6 +9,7 @@
 | [0066-plus-one](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0066-plus-one) |
 | [0139-word-break](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0139-word-break) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0840-magic-squares-in-grid](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0840-magic-squares-in-grid) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0139-word-break) |
+| [0496-next-greater-element-i](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0496-next-greater-element-i) |
 | [0756-pyramid-transition-matrix](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -216,9 +218,14 @@
 | [0020-valid-parentheses](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0496-next-greater-element-i) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
