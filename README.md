@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0496-next-greater-element-i) |
 | [0756-pyramid-transition-matrix](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0840-magic-squares-in-grid) |
@@ -171,10 +172,12 @@
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0146-lru-cache) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0146-lru-cache) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Ordered Set
 |  |
@@ -205,6 +208,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0295-find-median-from-data-stream) |
