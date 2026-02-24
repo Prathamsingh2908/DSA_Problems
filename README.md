@@ -10,6 +10,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0139-word-break](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0139-word-break) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -34,6 +35,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0239-sliding-window-maximum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Prefix Sum
@@ -113,6 +115,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0295-find-median-from-data-stream) |
 | [2054-two-best-non-overlapping-events](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/2402-meeting-rooms-iii) |
@@ -234,9 +237,14 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0496-next-greater-element-i) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
