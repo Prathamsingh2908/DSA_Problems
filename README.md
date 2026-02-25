@@ -224,10 +224,12 @@
 | [0232-implement-queue-using-stacks](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0460-lfu-cache](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0460-lfu-cache) |
+| [0901-online-stock-span](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0295-find-median-from-data-stream) |
+| [0901-online-stock-span](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0901-online-stock-span) |
 ## Stack
 |  |
 | ------- |
@@ -237,6 +239,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -248,6 +251,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0901-online-stock-span) |
 ## Monotonic Queue
 |  |
 | ------- |
