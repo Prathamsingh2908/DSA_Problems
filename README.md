@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0020-valid-parentheses) |
 | [0139-word-break](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0139-word-break) |
