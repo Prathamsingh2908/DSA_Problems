@@ -61,6 +61,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0020-valid-parentheses) |
 | [0139-word-break](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0151-reverse-words-in-a-string) |
@@ -72,6 +73,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0139-word-break](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0139-word-break) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -197,6 +199,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0295-find-median-from-data-stream) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
