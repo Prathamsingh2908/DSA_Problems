@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0084-largest-rectangle-in-histogram) |
@@ -65,6 +66,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0020-valid-parentheses) |
 | [0139-word-break](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0151-reverse-words-in-a-string) |
@@ -85,6 +87,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0139-word-break) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Memoization
