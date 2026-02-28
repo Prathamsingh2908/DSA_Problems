@@ -72,6 +72,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0139-word-break](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0756-pyramid-transition-matrix](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0944-delete-columns-to-make-sorted) |
@@ -217,6 +218,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0165-compare-version-numbers) |
 | [0295-find-median-from-data-stream](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0295-find-median-from-data-stream) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Graph Theory
