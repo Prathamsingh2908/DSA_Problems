@@ -52,6 +52,7 @@
 | [0013-roman-to-integer](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0146-lru-cache) |
+| [0242-valid-anagram](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0460-lfu-cache](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0496-next-greater-element-i) |
 | [0756-pyramid-transition-matrix](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0756-pyramid-transition-matrix) |
@@ -71,6 +72,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0139-word-break](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0756-pyramid-transition-matrix](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -119,6 +121,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0295-find-median-from-data-stream) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
