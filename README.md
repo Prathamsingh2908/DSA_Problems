@@ -173,6 +173,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0110-balanced-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
@@ -180,6 +181,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0110-balanced-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
@@ -193,6 +195,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0110-balanced-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Geometry
@@ -263,6 +266,7 @@
 | [0020-valid-parentheses](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0232-implement-queue-using-stacks) |
