@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0139-word-break](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0139-word-break) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0242-valid-anagram) |
@@ -165,6 +167,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0840-magic-squares-in-grid](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0840-magic-squares-in-grid) |
 | [0994-rotting-oranges](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0994-rotting-oranges) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
