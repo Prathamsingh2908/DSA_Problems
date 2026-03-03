@@ -61,6 +61,7 @@
 | [0840-magic-squares-in-grid](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2402-meeting-rooms-iii](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/2402-meeting-rooms-iii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## String
@@ -127,6 +128,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0295-find-median-from-data-stream) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/2054-two-best-non-overlapping-events) |
@@ -180,6 +182,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -190,12 +193,14 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
@@ -207,6 +212,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Geometry
 |  |
