@@ -186,6 +186,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -200,6 +201,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -226,6 +228,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
