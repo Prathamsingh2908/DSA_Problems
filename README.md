@@ -78,6 +78,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0257-binary-tree-paths) |
 | [0756-pyramid-transition-matrix](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -152,6 +153,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0257-binary-tree-paths) |
 | [0756-pyramid-transition-matrix](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0756-pyramid-transition-matrix) |
 ## Bit Manipulation
 |  |
@@ -181,6 +183,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0257-binary-tree-paths) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -192,6 +195,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0257-binary-tree-paths) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -211,6 +215,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0257-binary-tree-paths) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
