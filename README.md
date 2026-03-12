@@ -202,6 +202,7 @@
 | [0257-binary-tree-paths](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -263,6 +264,7 @@
 | [0257-binary-tree-paths](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -366,4 +368,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
