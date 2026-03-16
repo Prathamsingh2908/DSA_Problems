@@ -101,6 +101,7 @@
 | [0139-word-break](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0139-word-break) |
 | [1143-longest-common-subsequence](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2054-two-best-non-overlapping-events](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/2054-two-best-non-overlapping-events) |
@@ -216,6 +217,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -241,6 +243,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -290,6 +293,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Geometry
 |  |
 | ------- |
@@ -407,6 +411,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Iterator
 |  |
 | ------- |
