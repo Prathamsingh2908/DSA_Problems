@@ -1,41 +1,34 @@
 class Solution {
-private:
-    bool checkCycle(int node, vector<int> adj[], vector<int>& vis, vector<int>& dfsVis) {
-        vis[node] = 1;
-        dfsVis[node] = 1;
-
-        for (auto it : adj[node]) {
-            if (!vis[it]) {
-                if (checkCycle(it, adj, vis, dfsVis))
-                    return true;
-            }
-            else if (dfsVis[it]) {
-                return true;
-            }
-        }
-
-        dfsVis[node] = 0; // backtrack
-        return false;
-    }
-
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        // Step 1: build adjacency list
         vector<int> adj[numCourses];
-        for (auto &p : prerequisites) {
-            adj[p[1]].push_back(p[0]); // b → a
+        for (auto& e : prerequisites) {
+            adj[e[1]].push_back(e[0]);
         }
 
-        // Step 2: same DFS cycle detection
-        vector<int> vis(numCourses, 0), dfsVis(numCourses, 0);
-
+        vector<int> indegree(numCourses, 0);
         for (int i = 0; i < numCourses; i++) {
-            if (!vis[i]) {
-                if (checkCycle(i, adj, vis, dfsVis))
-                    return false; // cycle found → can't finish
+            for (auto it : adj[i]) {
+                indegree[it]++;
             }
         }
 
-        return true; // no cycle → can finish
+        queue<int> q;
+        for (int i = 0; i < numCourses; i++) {
+            if (indegree[i] == 0) q.push(i);
+        }
+
+        int cnt = 0;
+        while (!q.empty()) {
+            int node = q.front();
+            q.pop();
+            cnt++;
+            for (auto it : adj[node]) {
+                indegree[it]--;
+                if (indegree[it] == 0) q.push(it);
+            }
+        }
+
+        return cnt == numCourses;
     }
 };
