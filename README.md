@@ -14,6 +14,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0139-word-break](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0139-word-break) |
+| [0200-number-of-islands](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0496-next-greater-element-i) |
@@ -183,6 +184,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0200-number-of-islands) |
 | [0840-magic-squares-in-grid](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0840-magic-squares-in-grid) |
 | [0994-rotting-oranges](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0994-rotting-oranges) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -237,6 +239,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -261,6 +264,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0133-clone-graph](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -433,4 +437,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0207-course-schedule) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
