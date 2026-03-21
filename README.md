@@ -249,6 +249,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0785-is-graph-bipartite) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -269,6 +270,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0785-is-graph-bipartite) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0994-rotting-oranges) |
@@ -346,6 +348,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0785-is-graph-bipartite) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Shortest Path
 |  |
@@ -441,4 +444,5 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/Prathamsingh2908/DSA_Problems/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
